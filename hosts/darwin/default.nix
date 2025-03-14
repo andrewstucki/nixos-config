@@ -54,7 +54,7 @@ let user = "%USER%"; in
   };
 
   system = {
-    stateVersion = 4;
+    stateVersion = 5;
 
     defaults = {
       NSGlobalDomain = {
